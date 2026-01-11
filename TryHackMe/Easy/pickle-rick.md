@@ -1,4 +1,4 @@
-# [Room Name] - TryHackMe
+# Pickle Rick - TryHackMe
 
 **Difficulty:** Easy | **Date:** 11/01/2026
 
